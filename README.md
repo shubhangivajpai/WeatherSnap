@@ -19,7 +19,7 @@ Stay informed, plan your activities, and make the most out of your day with Weat
 
 ![Screenshot 2](https://private-user-images.githubusercontent.com/106021469/291066127-28e4cd5c-7643-45bb-8104-88464b83c159.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MjEzMTQsIm5iZiI6MTcwMjgyMTAxNCwicGF0aCI6Ii8xMDYwMjE0NjkvMjkxMDY2MTI3LTI4ZTRjZDVjLTc2NDMtNDViYi04MTA0LTg4NDY0YjgzYzE1OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxN1QxMzUwMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZTZjNTgyZDc5N2NjYjc2Zjg5Mzg2OGEyN2IzN2Y4ZGIxNDZhNGQ4YjZlYmFlNDk3YTQ3YzM0MzE0N2YwMzdjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.q3C6_O0TwtPz6EOzfYVKJwIunPp7H_nW_Nu53neVMJY)
 
-3. 1. Clone the repository: `git clone https://github.com/shubhangivajpai/weather-app.git`
+3. Clone the repository: `git clone https://github.com/shubhangivajpai/weather-app.git`
 
 4. Open `index.html` in your web browser.
 
