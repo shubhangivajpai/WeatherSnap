@@ -28,7 +28,7 @@ Stay informed, plan your activities, and make the most out of your day with Weat
 
 This project utilizes the OpenWeather API for retrieving real-time weather data. The OpenWeather API is a powerful service that provides accurate and up-to-date weather information. To learn more about the OpenWeather API and its capabilities, please refer to the official documentation:
 
-[OpenWeather API Documentation](https://openweathermap.org/current)
+[OpenWeather API Documentation]
 
 
 ## Credits
