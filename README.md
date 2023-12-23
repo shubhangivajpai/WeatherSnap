@@ -12,8 +12,7 @@ Welcome to Weather Snap, your go-to weather app for quick and accurate updates o
 4. City-Specific Forecasts: Enter the name of any city, and Weather Snap will provide you with accurate and reliable forecasts.
 ## How to use
 1. Enter the name of the city in the search bar. Click the search button or press Enter to get the latest weather information.
-![Screenshot 1])(https://github.com/shubhangivajpai/WeatherSnap/commit/a5a5f904f9e0e90d49202a2516c1acb1a8ebd02d)
-
+![Screenshot1(weather)](https://github.com/shubhangivajpai/WeatherSnap/assets/106021469/e6394e53-b8d4-4d82-8405-f6763c37ee6a)
 2. Enter the city name and explore detailed weather data, including temperature, humidity, and wind speed.
 Stay informed, plan your activities, and make the most out of your day with Weather Snap.
 
