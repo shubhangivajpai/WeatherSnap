@@ -16,7 +16,8 @@ Welcome to Weather Snap, your go-to weather app for quick and accurate updates o
 2. Enter the city name and explore detailed weather data, including temperature, humidity, and wind speed.
 Stay informed, plan your activities, and make the most out of your day with Weather Snap.
 
-![Screenshot 2](https://github.com/shubhangivajpai/WeatherSnap/commit/a5a5f904f9e0e90d49202a2516c1acb1a8ebd02d)
+![Screenshot2(weather)](https://github.com/shubhangivajpai/WeatherSnap/assets/106021469/94cb0acf-33e1-420d-b15c-4a12f9bae2d8)
+
 
 3. Clone the repository: `git clone https://github.com/shubhangivajpai/weather-app.git`
 
